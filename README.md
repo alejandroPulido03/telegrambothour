@@ -43,3 +43,6 @@ Puedes hacer un pull request a [este repositorio](https://github.com/diegop384/t
 
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+##Hecho con ❤ por [@diego_pulidoo](https://twitter.com/diego_pulidoo_)
