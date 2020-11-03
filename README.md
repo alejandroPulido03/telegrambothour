@@ -21,14 +21,14 @@ $ python setup.py install
 ```
 
 ## Adquiriendo un Token 🗝 
-Ve a @[BotFather](https://telegram.me/BotFather) y sigue las instrucciones para obtener el token de tu bot
+Ve a [@BotFather](https://telegram.me/BotFather) y sigue las instrucciones para obtener el token de tu bot
 
 Por ultimo agrega el Token en la constante TOKEN en main.py 
 
 
 
 ## Agregando paises 🌎 
-Por último tendrás puedes agregar el país que desees como una variable que llame a la función crear_mensaje. Tienes que tener en cuenta la diferencia horaria de la hora de el país en el que está configurado __Tu Máquina__
+Por último puedes agregar el país que desees como una variable que llame a la función crear_mensaje. Tienes que tener en cuenta la diferencia horaria de la hora de el país en el que está configurado __Tu Máquina__
 
 Por ejemplo la hora estandar que uso es la de Colombia por lo que tengo que agregar la diferencia en cuanto a Colombia
 
