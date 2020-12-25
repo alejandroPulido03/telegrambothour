@@ -15,11 +15,12 @@ def crear_mensaje(diferencia, lugar,bandera): #Lógica del programa
 
     if hora > 24: #Si en el país a calcular ya se encuentran al otro día sobrepasará el 24 por lo que se tiene que restar 
         hora -=24
-        auxhora = "0"
 
     if hora > 12:
         tiempo = "PM"
         hora -= 12 #cambio de hora militar a estandar
+    if hora < 10:
+        auxhora = '0'
         auxhora = "0"
     if time.minute < 10:
         auxmin = "0"
